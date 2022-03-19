@@ -19,7 +19,6 @@
 #define YELLOW 3 //The index of yellow color
 #define NO_COLOR 4 //The index of no color for TAKI
 
-//Matan Kamin 313312886 
 
 typedef struct card
 {
